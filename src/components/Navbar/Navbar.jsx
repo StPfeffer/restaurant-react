@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { FaBars } from 'react-icons/fa';
 import { MdOutlineRestaurantMenu } from 'react-icons/md';
 
@@ -6,7 +6,7 @@ import images from '../../constants/images';
 import './Navbar.css';
 
 const Navbar = () => {
-  const [toggleMenu, setToggleMenu] = useState(false);
+  const [toggleMenu, setToggleMenu] = React.useState(false);
 
 
   return (
