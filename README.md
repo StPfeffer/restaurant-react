@@ -1,6 +1,6 @@
 # Gericht Restaurant
 
-This website was made following the youtube video [Build and Deploy a Fully Responsive Restaurant Website with Modern UI and UX in ReactJS](https://www.youtube.com/watch?v=4oV65GVVits) in order to familiarize myself with the syntax of ReactJS.
+This website was made following the youtube video [Build and Deploy a Fully Responsive Restaurant Website with Modern UI and UX in ReactJS](https://www.youtube.com/watch?v=4oV65GVVits) in order to familiarize myself with the ReactJS framework.
 
 ## Usage
 
